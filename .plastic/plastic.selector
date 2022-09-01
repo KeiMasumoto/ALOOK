@@ -1,0 +1,4 @@
+repository "AlookProject2DRepository@Alook_Team@cloud"
+  path "/"
+    br "/main"
+    co "/main"
